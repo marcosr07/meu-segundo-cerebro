@@ -2,6 +2,8 @@
 
 O tema é a trajetória, mentalidade e hábitos de Cristiano Ronaldo, com o objetivo de atuar como um "segundo cérebro" do atleta para guiar jovens sonhadores no desenvolvimento de disciplina inabalável, alta performance e inteligência emocional para alcançarem seus maiores objetivos.
 
+link: https://notebook.google.com/notebook/e8468205-26c3-4980-a317-1ebf09685d53
+
 ## 📚 Estrutura
 
 - `01-estudos/` — conteúdos e aprendizados (fontes)
